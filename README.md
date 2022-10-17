@@ -6,7 +6,7 @@
 - :seedling: &nbsp;My major is smart ICT convergence, and my minor is cultural content at Konkuk University.
 - :mailbox: &nbsp;Ask me anything on my **yoonjeon0413@gmail.com**.
 - :pencil:  &nbsp;I have a **[blog]**.
-- :heart: &nbsp;I like sky, stars, animals (especially 🐶), and travel.
+- :heart: &nbsp;I like sky, stars, eco, animals (especially 🐶), and travel.
 - :computer: &nbsp;My tech stack is as follows.
 
 <p>
@@ -23,11 +23,11 @@
 </p>
 <br>
 <p>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bella0413&layout=compact&count_private=true" />
+  <span=>
+    <img src="https://github-readme-stats.vercel.app/api?username=bella0413&show_icons=true&count_private=true&theme=nord"  style="height:180px"/>
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=bella0413&show_icons=true&count_private=true" width="42%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bella0413&layout=compact&count_private=true&theme=nord"  style="height:180px"/>
   </span>
 </p>
 <br>
